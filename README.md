@@ -125,7 +125,9 @@ To use the chatbot, follow these steps:
        print(response)
    
 ## Example:
-'''text
+
+
+```text
  Hi, I'm thecleverprogrammer and I like to chat.
  Please type lowercase English language to start a conversation. Type 'quit' to leave.
 
