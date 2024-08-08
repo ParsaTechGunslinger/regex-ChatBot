@@ -125,18 +125,19 @@ To use the chatbot, follow these steps:
        print(response)
    
 ## Example:
-  Hi, I'm thecleverprogrammer and I like to chat.
-  Please type lowercase English language to start a conversation. Type 'quit' to leave.
+'''text
+ Hi, I'm thecleverprogrammer and I like to chat.
+ Please type lowercase English language to start a conversation. Type 'quit' to leave.
 
-  > hello
-  Hello
+> hello
+Hello
 
-  > my name is John
-  Hello John, How are you today?
+> my name is John
+ Hello John, How are you today?
 
-  > how are you?
-  I'm doing very well
+> how are you?
+I'm doing very well
 
-  > quit
-  It was nice talking to you. Goodbye!
+> quit
+It was nice talking to you. Goodbye!
 
