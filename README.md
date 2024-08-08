@@ -123,8 +123,8 @@ To use the chatbot, follow these steps:
        # Get the response from the chatbot
        response = chat.respond(user_input)
        print(response)
-
-   ##example
+   
+## Example:
 Hi, I'm thecleverprogrammer and I like to chat.
 Please type lowercase English language to start a conversation. Type 'quit' to leave.
 
